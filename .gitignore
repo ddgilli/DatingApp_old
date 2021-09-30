@@ -454,3 +454,19 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 
 appsettings.json
+StudentAssets/PhotoManagementChallenge/Photo Management Challenge solution.pdf
+StudentAssets/PhotoManagementChallenge/Photo Management Challenge.pdf
+API/client/ssl/server.crt
+API/client/ssl/server.key
+StudentAssets/DatingApp.postman_collection.json
+StudentAssets/jsongenerator.txt
+StudentAssets/user.png
+StudentAssets/UserSeedData.json
+StudentAssets/generateTrustedSSL/generate.sh
+StudentAssets/generateTrustedSSL/Instructions.txt
+StudentAssets/generateTrustedSSL/openssl-custom.cnf
+StudentAssets/generateTrustedSSL/server.crt
+StudentAssets/generateTrustedSSL/server.key
+StudentAssets/snippets/heroku connection string.txt
+StudentAssets/snippets/member-tabs-css.txt
+StudentAssets/snippets/utc-datacontext-snippet.txt
